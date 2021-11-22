@@ -9,8 +9,7 @@
 - [x] 5. Изучить Visual Studio Code CLI: описать не менее 10 команд используемых в данном интерфейсе
 - [ ] 6. Написать 5 собственных Сниппетов
 - [ ] 7. Изучить и описать наиболее распространённые HotKeys
-- [ ] [8. Задокументировать код с помощью расширения](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen)
+- [ ] [8. Задокументировать код с помощью расширения](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen)
 - [x] 9. Установить шрифт FiraCode
-- [ ] [10. Установить livesharing](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) 
-
+- [ ] [10. Установить livesharing](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
