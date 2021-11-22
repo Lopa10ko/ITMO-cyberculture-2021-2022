@@ -13,4 +13,4 @@
 - [x] 9. Установить шрифт FiraCode
 - [ ] [10. Установить livesharing](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) 
 
-![](http://img2.joyreactor.cc/pics/post/Приколы-для-даунов-разное-Киану-Ривз-Актеры-и-Актрисы-5266376.jpeg)
+
