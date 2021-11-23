@@ -1,0 +1,40 @@
+{
+    "Assert equal": {
+        "prefix": "ase",
+        "body": "self.assertEqual(${1:expected}, ${2:actual}${3:, '${4:message}'})$0"
+    },
+    "New enum": {
+        "prefix": "enum",
+        "body": [
+            "from enum import Enum\n\n",
+            "class ${1:MyEnum}(Enum):",
+            "\t\"\"\"${2:Docstring for $1.}\"\"\"",
+            "\t${3:FIRST_ENUM} = \"some_value\"",
+            "\t${4:SECOND_ENUM} = \"some_other_value\"",
+            "\t$0"
+        ],
+        "description": "Code snippet for enum definition."
+    },
+    "try:except:else:finally": {
+        "prefix": "tryef",
+        "body": "try:\n\t${1:pass}\nexcept${2: ${3:Exception} as ${4:e}}:\n\t${5:raise}\nelse:\n\t${6:pass}\nfinally:\n\t${7:pass}$0",
+        "description" : "Code Snippet for a try/except/finally with else statement."
+    },
+    "if __name__ == \"__main__\"": {
+        "prefix": "ifmain",
+        "body": "if __name__ == \"__main__\":\n\t${1:main()}$0",
+        "description" : "Create implicitly all the code at the top level using the __name__ special variable."
+    },
+    "New class": {
+        "prefix": "class",
+        "body": [
+            "class ${1:ClassName}(${2:object}):",
+            "\t\"\"\"${3:docstring for $1.}\"\"\"",
+            "\tdef __init__(self, ${4:arg}):",
+            "\t\t${5:super($1, self).__init__()}",
+            "\t\tself.$4 = $4",
+            "\t\t$0"
+        ],
+        "description" : "Code snippet for a class definition."
+    },
+}
