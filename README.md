@@ -1,5 +1,5 @@
 # ITMO-cyberculture-2021-2022
-[Tests](https://github.com/Lopa10ko/cyberculture-2021-2022/actions/workflows/python-testing.yml/badge.svg)
+[Tests](https://github.com/Lopa10ko/ITMO-cyberculture-2021-2022/actions/workflows/python-testing.yml/badge.svg)
 
 ## VSCode:
 
