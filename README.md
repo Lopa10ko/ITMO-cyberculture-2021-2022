@@ -24,6 +24,5 @@
 - [x] [4. Написать тесты к проекту](https://github.com/Lopa10ko/ITMO-cyberculture-2021-2022/tree/main/GoogleTest/C_LAB2/Tests)
 - [x] [5. Связать gtest и проект](https://github.com/Lopa10ko/ITMO-cyberculture-2021-2022/blob/main/GoogleTest/C_LAB2/main.cpp)
 
-
 ## Отчеты
 [тык](https://github.com/Lopa10ko/ITMO-cyberculture-2021-2022/blob/main/Overviews)
