@@ -15,7 +15,6 @@
 - [x] 9. Установить шрифт FiraCode
 - [x] [10. Установить livesharing](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-
 ## Google Test:
 
 - [x] [1. Клонировать репо googletest-main](https://github.com/Lopa10ko/ITMO-cyberculture-2021-2022/tree/main/GoogleTest/C_LAB2/lib)
